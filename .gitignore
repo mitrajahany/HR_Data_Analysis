@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/HR Data Analysis/*
+!/HR Data Analysis/task/
+/HR Data Analysis/task/*
+!/HR Data Analysis/task/explore.py
